@@ -8,7 +8,6 @@ blue = '\x1b[34m(+)\x1b[0m'
 green = '\x1b[32m(+)\x1b[0m'
 yellow = '\x1b[33m(!)\x1b[0m'
 
-ctypes.windll.kernel32.SetConsoleTitleW("TikTok Mass Reporter | Made With <3 By Joy")
 
 banner = fade.fire("""
   _____ _ _    _____     _    
